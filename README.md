@@ -48,7 +48,7 @@ Link will be displayed here soon...
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [[issues page](https://github.com/AlucardSanin/books_store/issues).]
 
 ## Acknowledgments
 
@@ -63,4 +63,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is ([./MIT.md](https://github.com/IQAndreas/markdown-licenses/blob/master/mit.md)) licensed.
